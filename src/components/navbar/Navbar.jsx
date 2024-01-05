@@ -92,7 +92,7 @@ function Navbar() {
                     <Link to={'/'} className="-m-2 block p-2 font-medium text-gray-900 cursor-pointer">
                       <img
                         className="inline-block w-10 h-10 rounded-full"
-                        src="https://github.com/newwakar/shopcart/blob/main/public/letter-w.jpg"
+                        src="https://raw.githubusercontent.com/newwakar/shopcart/main/public/letter-w.jpg"
                         alt="Dan_Abromov" />                                        </Link>
                   </div>
                 </div>
@@ -181,7 +181,7 @@ function Navbar() {
                   <a href="#" className="flex items-center text-gray-700 ">
                     <img
                       className="inline-block w-10 h-10 rounded-full"
-                      src="https://github.com/newwakar/shopcart/blob/main/public/letter-w.jpg"
+                      src="https://raw.githubusercontent.com/newwakar/shopcart/main/public/letter-w.jpg"
                       alt="Dan_Abromov" />
                   </a>
                 </div>
