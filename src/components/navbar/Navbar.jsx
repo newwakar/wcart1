@@ -181,7 +181,7 @@ function Navbar() {
                   <a href="#" className="flex items-center text-gray-700 ">
                     <img
                       className="inline-block w-10 h-10 rounded-full"
-                      src="https://github.com/newwakar/shopcart/blob/main/public/letter-w.jpg?"
+                      src="https://github.com/newwakar/shopcart/blob/main/public/letter-w.jpg"
                       alt="Dan_Abromov" />
                   </a>
                 </div>
