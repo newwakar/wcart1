@@ -92,7 +92,7 @@ function Navbar() {
                     <Link to={'/'} className="-m-2 block p-2 font-medium text-gray-900 cursor-pointer">
                       <img
                         className="inline-block w-10 h-10 rounded-full"
-                        src="https://overreacted.io/static/profile-pic-c715447ce38098828758e525a1128b87.jpg"
+                        src="https://github.com/newwakar/shopcart/blob/main/public/letter-w.png"
                         alt="Dan_Abromov" />                                        </Link>
                   </div>
                 </div>
