@@ -60,12 +60,13 @@ function Navbar() {
                     <span className="sr-only">Close menu</span>
                     <RxCross2 />
                   </button>
+                    <section className="text-sm font-medium text-gray-900 " style={{ color: mode === 'dark' ? 'white' : '', }}>
+                    {user && user.user && user.user.email ? user.user.email : 'Guest'}
+                  </section>
                 </div>
                 <div className="space-y-6 border-t border-gray-200 px-4 py-6">
 
-                  <section className="text-sm font-medium text-gray-900 " style={{ color: mode === 'dark' ? 'white' : '', }}>
-                    {user && user.user && user.user.email ? user.user.email : 'Guest'}
-                  </section>
+                
 
                   <Link to={'/allproducts'} className="text-sm font-medium text-gray-900 " style={{ color: mode === 'dark' ? 'white' : '', }}>
                     All Products
