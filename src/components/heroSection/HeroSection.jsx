@@ -3,7 +3,7 @@ import React from 'react'
 function HeroSection() {
   return (
     <div>
-        <img src="/main/public/w%20-%20cart.png" alt="" />
+        <img src="https://thewakar.github.io/shop/img/w-cart.jpg" alt="" />
     </div>
   )
 }
