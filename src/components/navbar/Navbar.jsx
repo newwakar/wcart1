@@ -165,7 +165,7 @@ function Navbar() {
                       Signup
                     </Link>}
 
-                  {user?.user?.email === 'knupadhyay784@gmail.com' ? 
+                  {user?.user?.email === 'divakar@gmx.us' ? 
                    <Link to={'/dashboard'} className="text-sm font-medium text-gray-700 " style={{ color: mode === 'dark' ? 'white' : '', }}>
                     Admin
                   </Link> : ""}
